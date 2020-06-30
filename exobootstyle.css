@@ -1,0 +1,26 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing : border-box;
+    }
+
+a{
+    color: white;
+}
+
+
+.image{
+    background:url("gateau.jpg") no-repeat center center;
+    background-size: cover;
+    height:600px ;
+
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+/* .header{
+    position: fixed;
+} */
